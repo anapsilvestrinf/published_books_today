@@ -110,7 +110,7 @@ table[class=body] .article {
 '''
 
 html_middle_template = '''
-                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">📖&nbsp; <a href={} target="_blank" style="color: #ec0867; text-decoration: underline;">{}</a> by {}</p><p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">
+                        <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">📖&nbsp; <a href={} target="_blank" style="color: #ec0867; text-decoration: None;">{}</a> by {}</p><p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px;">
                         </p><table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary" style="border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; min-width: 100%; box-sizing: border-box; width: 100%;" width="100%">
                           <tbody>
                             <tr>
